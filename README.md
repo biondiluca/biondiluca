@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Welcome to my profile page!</h3>
-<p>I'm a current ICT student.</p>
-<p>My knowledge of languages and frameworks includes Ruby, C#, .NET, HTML, CSS and JavaScript.</p>
-<p>I'm looking to collaborate on open source projects to sharpen up my programming skills and connect with other developers.</p>
-<p>Feel free to drop a line and say HI.</p>
+
+
 
